@@ -40,6 +40,30 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-184",
+					"linecount" : 5,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 410.5, 77.0, 150.0, 75.0 ],
+					"text" : "Restart: please reopen the project totally.\n(Restart Button got some bug and I don't have time to fix it.)"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-182",
+					"linecount" : 6,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1047.5, 9.0, 328.0, 103.0 ],
+					"text" : "Created by Warren (Zhuan Wang)\n\nStudent ID:218519454\n\nThe project are also recorded on Github repo:\nhttps://github.com/Tuneinto233/DATT1010-Assignment2\n"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-179",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
